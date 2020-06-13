@@ -1,6 +1,6 @@
 # Deep Learning MIT Course 2020 Lab Components
 
-This repository contains codes for MIT 6.S191: Introduction to Deep Learning! software labs.
+This repository contains codes for MIT 6.S191: Introduction to Deep Learning software labs.
 
 
 ## Labs Compeleted
