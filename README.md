@@ -23,7 +23,7 @@ The package is open source under the same license.
 
 ### Course Link
 
-[Introduction To Deep Learning] : http://introtodeeplearning.com/
+Introduction To Deep Learning : http://introtodeeplearning.com/
 
 ### Reference
 
